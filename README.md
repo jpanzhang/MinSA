@@ -1,6 +1,6 @@
 # MinSA
 A Matlab program for calculating the mean relative error (MRE) under different numbers of view-fields (fieldN) and areas of view-field (fieldS).
-
+https://doi.org/10.1016/j.smallrumres.2022.106674
 ### _______________________________________________________________________________________________
 ### Research paper: 
 ### Jipan Zhang, Chengchen Deng, Yongju Zhao: Effect of number and area of view-fields on the measurement accuracy of hair follicle density in goats (Capra hircus), Small Ruminant Research, 2022.
